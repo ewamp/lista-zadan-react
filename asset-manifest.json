@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lista-zadan-react/static/css/main.af99e674.css",
+    "main.js": "/lista-zadan-react/static/js/main.56d08012.js",
+    "static/js/453.59f4f2ab.chunk.js": "/lista-zadan-react/static/js/453.59f4f2ab.chunk.js",
+    "index.html": "/lista-zadan-react/index.html",
+    "main.af99e674.css.map": "/lista-zadan-react/static/css/main.af99e674.css.map",
+    "main.56d08012.js.map": "/lista-zadan-react/static/js/main.56d08012.js.map",
+    "453.59f4f2ab.chunk.js.map": "/lista-zadan-react/static/js/453.59f4f2ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af99e674.css",
+    "static/js/main.56d08012.js"
+  ]
+}
